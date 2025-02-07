@@ -1123,7 +1123,7 @@ void Context::createDefaultConfig() {
              << "#include solarized-dark-256.theme\n"
              << "#include solarized-light-256.theme\n"
              << "#include no-color.theme\n"
-             << "#include default.theme\n"
+             << "include default.theme\n"
              << '\n';
 
     // Write out the new file.
