@@ -26,7 +26,7 @@
 
 rule.precedence.color=deleted,completed,active,keyword.,tag.,project.,overdue,scheduled,due.today,due,blocked,blocking,recurring,tagged,uda.
 
-This contains all the default colors.
+# This contains all the default colors.
 
 # General decoration
 rule.color.merge=1
